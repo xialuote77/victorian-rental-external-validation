@@ -1,0 +1,16 @@
+{
+  ".env.example": "a293849ec61cdbecdbe02b5394c48a91dc7f322a3a458263ee624bf96ea31e87",
+  ".gitignore": "23c980e83c203d9beda1d67e24d3819cd738a73ad87c8f0dd3f5c49744e29adb",
+  "DATA_CONTRACTS.md": "1b9e7ba1b601f77d53c2b0d00edaa7152ca76845181c83a0e51a146caf8246b5",
+  "environment.yml": "53ce68cf333c7144017c3f50aea9c492fde0c782fa6fb724b2754c0ec36ceff7",
+  "README.md": "6edca66922812c8fd1e55a5443c00b4c63e542286ab02a03ffd0add43fb69245",
+  "assets/actual_vs_predicted_barry_plant.png": "a5ef0e899b20e87082b7036a1a878ea620897a7f0d052dacec253cfc9a7cb50b",
+  "assets/external_validation_mae_by_property_type.png": "e1fc1c058a6a7a72b9ee89dd1be2babbe19043b73771a04c54399d13fa6dd1c1",
+  "code/04_modelling_table.ipynb": "92817231626ac351463e9baead2ad31af586fff57229b11c751ba6f72151b394",
+  "code/08_plant_scraper.ipynb": "77b810522f2edac0e5d5edde0912b3643b4fea8473fc7e9bd2601967e457f101",
+  "code/09_plant_processing.ipynb": "4151338dba9fc60b8c24b256385dec3e0021c659b2c8edc1246776b14de69081",
+  "code/10_plant_external_validation.ipynb": "8ca7f8370ad113521b36749ef389ce328ced326dfbea4d58cf0f6bd67cfc0646",
+  "docs/CONTRIBUTIONS.md": "1fc8de4ab7ea595ce2ee7f424d3d23e5bb44216af4f91d9c985e687b9935eb14",
+  "docs/REPRODUCE.md": "a38b6e7d030b5dd33f6f5bd31b1eb57b333a45a5e4e9861115006ff59196985a",
+  "scripts/build_train_stations.py": "2a140eb1cd8c3fd44bf9291d9464a711930bee567d17eceadac6e68c629bcc05"
+}

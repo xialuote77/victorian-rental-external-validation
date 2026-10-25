@@ -1,0 +1,27 @@
+name: mast30034_p2
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn=1.8.0
+  - scipy
+  - joblib
+  - jupyter
+  - ipykernel
+  - requests
+  - python-dotenv
+  - beautifulsoup4
+  - pyspark=3.5
+  - openjdk=17
+  - openpyxl
+  - pyogrio
+  - shapely
+  - geopandas
+  - pyproj
+  - rtree
+  - fastparquet
+  - pyarrow
