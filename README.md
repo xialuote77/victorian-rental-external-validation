@@ -1,5 +1,16 @@
 # Victorian Rental Data Integration and External Validation
 
+## 中文概览
+
+**项目定位：租赁数据分析 / 多源数据整合 / 模型外部验证。** 检查基于 Domain 房源训练的租金模型，在另一平台 Barry Plant 的房源上能否保持预测表现。
+
+- **个人贡献**：房源采集与处理、建模表整合、外部验证及项目复现整理；有提交记录佐证。主要租金模型开发、最初的空间特征和区域排名属于团队工作。
+- **技术栈**：Python、pandas、地理数据处理、网页数据采集、scikit-learn、Jupyter。
+- **原项目保存结果**：719 条外部房源，MAE 为 **62.61 澳元/周**、RMSE 为 92.70、R² 为 0.728；这是历史评估输出，本轮整理未重新训练或调用采集/API 流程。
+- **业务解释**：比较跨平台误差并检查物业类型差异；目标是挂牌周租金，不是成交租金或投资回报。未来租金情景推算不作为本人的已验证预测成果。
+
+## English documentation
+
 **Can a rental-price model trained on one listing platform transfer to another?**
 
 A contribution-focused portfolio from a team Victorian rental-analysis project. My work connects **web data collection, multi-source integration and external model validation**, with results from 719 Barry Plant rental listings.
